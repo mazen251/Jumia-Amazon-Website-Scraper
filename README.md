@@ -30,7 +30,7 @@ The Jumia-Amazon Website Scraper project aims to efficiently extract product dat
 
 ## Project Poster
 The Pdf of the Poster is provided in the Assets Directory In the Project
-![Poster](Assets/Poster.png)
+![Poster](Assets/poster.png)
 
 ## Installation
 
@@ -72,7 +72,6 @@ Contributions are welcome! Please fork the repository and submit a pull request.
 - Mazen Walid [@LinkdIn](https://www.linkedin.com/in/mazen-walid-225582208/)
 
 ## Acknowledgements
-
 - BeautifulSoup
 - Requests
 - Pandas 
